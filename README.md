@@ -1,5 +1,5 @@
-[![License: PML 2.0](https://img.shields.io/github/license/ordisoftware/Futhark-Decoder](LICENSE)&nbsp;
-[![GitHub repo size](https://img.shields.io/github/repo-size/ordisoftware/Futhark-Decoder](#)&nbsp;
+[![License: PML 2.0](https://img.shields.io/github/license/ordisoftware/Futhark-Decoder)](LICENSE)&nbsp;
+[![GitHub repo size](https://img.shields.io/github/repo-size/ordisoftware/Futhark-Decoder)](#)&nbsp;
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ordisoftware/Futhark-Decoder)](https://github.com/Ordisoftware/FutharkDecoder/tree/master/Project)&nbsp;
 [![Lines of code](https://img.shields.io/tokei/lines/github/ordisoftware/Futhark-Decoder)](https://github.com/Ordisoftware/Futhark-Decoder/tree/master/Project)&nbsp;<br/>
 [![OS: Windows](https://img.shields.io/badge/Windows%207%2B-279CE8?label=os)](https://www.microsoft.com/windows/)&nbsp;
