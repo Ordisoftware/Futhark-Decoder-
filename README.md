@@ -13,7 +13,7 @@
 
 # Futhark Decoder
 
-A libre and open-source software written in C# that helps for the Norse runes study and analysis to demystify the hierarchy of world mythology with sweet words.
+A libre and open-source software written in C# that helps for the lettriq rune-by-rune study and analysis of old norse words.
 
 ## Table of content
 
