@@ -1,4 +1,4 @@
-﻿/Setup/**/*.exe
+/Setup/**/*.exe
 *.sha512
 *.bak
 
