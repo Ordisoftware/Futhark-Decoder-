@@ -55,16 +55,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Dependencies\CoolPrintPreviewDialog\CoolPrintPreviewControl.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
-    <Compile Include="Dependencies\CoolPrintPreviewDialog\CoolPrintPreviewDialog.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Dependencies\CoolPrintPreviewDialog\CoolPrintPreviewDialog.designer.cs">
-      <DependentUpon>CoolPrintPreviewDialog.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Dependencies\CoolPrintPreviewDialog\PageImageList.cs" />
     <Compile Include="Dependencies\CultureManager\CultureManager.cs">
       <SubType>Component</SubType>
     </Compile>
@@ -310,12 +300,6 @@
       <DependentUpon>WebUpdateForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Source\Common\Core\WinForms\WinFormsHelper.cs" />
-    <EmbeddedResource Include="Dependencies\CoolPrintPreviewDialog\CoolPrintPreviewDialog.fr.resx">
-      <DependentUpon>CoolPrintPreviewDialog.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Dependencies\CoolPrintPreviewDialog\CoolPrintPreviewDialog.resx">
-      <DependentUpon>CoolPrintPreviewDialog.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -437,7 +421,11 @@
       <Install>false</Install>
     </BootstrapperPackage>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Source\Database\" />
+    <Folder Include="Source\Forms\Boxes\" />
+    <Folder Include="Source\Forms\Config\" />
+  </ItemGroup>
   <ItemGroup>
     <PackageReference Include="CommandLineParser">
       <Version>2.9.1</Version>
