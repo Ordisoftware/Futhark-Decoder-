@@ -57,7 +57,7 @@ You can manually check the latest version available online in case of problem.
 
 Use the Start Menu link:
 
-&emsp;`Ordisoftware\Hieroglyphics Decoder\Reset Futhark Decoder settings`
+&emsp;`Ordisoftware\Futhark Decoder\Reset Futhark Decoder settings`
 
 This will erase all settings as well as those of old versions, which should resolve issues if there is a conflict, otherwise please contact support.
 
