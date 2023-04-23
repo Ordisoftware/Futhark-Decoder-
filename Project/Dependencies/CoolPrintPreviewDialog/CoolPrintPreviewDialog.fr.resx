@@ -117,8 +117,96 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="MPL_2_0" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Licenses\MPL 2.0.rtf;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;Windows-1252</value>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="_btnPrint.Text" xml:space="preserve">
+    <value>Imprimer</value>
+  </data>
+  <data name="_btnPageSetup.Text" xml:space="preserve">
+    <value>Changer l'orientation</value>
+  </data>
+  <data name="_itemActualSize.Size" type="System.Drawing.Size, System.Drawing">
+    <value>171, 22</value>
+  </data>
+  <data name="_itemActualSize.Text" xml:space="preserve">
+    <value>Taille actuelle</value>
+  </data>
+  <data name="_itemFullPage.Size" type="System.Drawing.Size, System.Drawing">
+    <value>171, 22</value>
+  </data>
+  <data name="_itemFullPage.Text" xml:space="preserve">
+    <value>Pleine page</value>
+  </data>
+  <data name="_itemPageWidth.Size" type="System.Drawing.Size, System.Drawing">
+    <value>171, 22</value>
+  </data>
+  <data name="_itemPageWidth.Text" xml:space="preserve">
+    <value>Largeur de la page</value>
+  </data>
+  <data name="_itemTwoPages.Size" type="System.Drawing.Size, System.Drawing">
+    <value>171, 22</value>
+  </data>
+  <data name="_itemTwoPages.Text" xml:space="preserve">
+    <value>Deux pages</value>
+  </data>
+  <data name="toolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>168, 6</value>
+  </data>
+  <data name="_item500.Size" type="System.Drawing.Size, System.Drawing">
+    <value>171, 22</value>
+  </data>
+  <data name="_item200.Size" type="System.Drawing.Size, System.Drawing">
+    <value>171, 22</value>
+  </data>
+  <data name="_item150.Size" type="System.Drawing.Size, System.Drawing">
+    <value>171, 22</value>
+  </data>
+  <data name="_item100.Size" type="System.Drawing.Size, System.Drawing">
+    <value>171, 22</value>
+  </data>
+  <data name="_item75.Size" type="System.Drawing.Size, System.Drawing">
+    <value>171, 22</value>
+  </data>
+  <data name="_item50.Size" type="System.Drawing.Size, System.Drawing">
+    <value>171, 22</value>
+  </data>
+  <data name="_item25.Size" type="System.Drawing.Size, System.Drawing">
+    <value>171, 22</value>
+  </data>
+  <data name="_item10.Size" type="System.Drawing.Size, System.Drawing">
+    <value>171, 22</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="_btnFirst.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="_btnFirst.Text" xml:space="preserve">
+    <value>Premier</value>
+  </data>
+  <data name="_btnPrev.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="_btnPrev.Text" xml:space="preserve">
+    <value>Précédent</value>
+  </data>
+  <data name="_btnNext.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="_btnNext.Text" xml:space="preserve">
+    <value>Suivant</value>
+  </data>
+  <data name="_btnLast.Enabled" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="_btnLast.Text" xml:space="preserve">
+    <value>Dernier</value>
+  </data>
+  <data name="_btnCancel.Text" xml:space="preserve">
+    <value>Annuler</value>
+  </data>
+  <data name="_btnClose.Text" xml:space="preserve">
+    <value>Fermer</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Aperçu avant impression</value>
   </data>
 </root>

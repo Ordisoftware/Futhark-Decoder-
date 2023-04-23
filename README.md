@@ -8,12 +8,12 @@
 [![IDE: Visual Studio](https://img.shields.io/badge/Visual%20Studio%202022-6E5FA6.svg?label=ide)](https://visualstudio.microsoft.com)&nbsp;
 [![Lang: C#](https://img.shields.io/badge/C%23%2011-%23239120.svg?label=lang)](https://docs.microsoft.com/dotnet/csharp/)&nbsp;
 [![DB: SQLite](https://img.shields.io/badge/SQLite%203.40-darkgoldenrod.svg?label=db)](https://www.sqlite.org)&nbsp;<br/>
-[![Ordisoftware.com Project](https://img.shields.io/badge/-Ordisoftware.com%20Project-355F90?logo=WordPress&logoColor=white)](https://www.ordisoftware.com/Futhark-Decoder)&nbsp;
+[![Ordisoftware.com Project](https://img.shields.io/badge/-Ordisoftware.com%20Project-355F90?logo=WordPress&logoColor=white)](https://www.ordisoftware.com/futhark-decoder)&nbsp;
 [![Manufacturing Software Guidelines](https://img.shields.io/badge/-Manufacturing%20Software%20Guidelines-355F90?logo=MicrosoftWord&logoColor=white)](https://github.com/Ordisoftware/Guidelines)&nbsp;
 
 # Futhark Decoder
 
-A libre and open-source software written in C# that helps for the lettriq rune-by-rune study and analysis of old norse words.
+A libre and open-source software written in C# that helps for the lettriq rune-by-rune study and analysis of old Norse words.
 
 ## Table of content
 
@@ -25,7 +25,7 @@ A libre and open-source software written in C# that helps for the lettriq rune-b
 
 ## Functionalities
 
-- Norse runes database with their customizable meanings.
+- Runes database with their customizable meanings.
 - Analyze a word letter-by-letter to get a sentence describing its sense.
 - Online research using several dictionaries.
 - Store results in a notebook.
