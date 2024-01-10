@@ -8,7 +8,7 @@
 [Setup]
 MinVersion=0,6.1sp1
 LicenseFile=..\Project\Licenses\MPL 2.0.rtf
-AppCopyright=Copyright 2023 Olivier Rogier
+AppCopyright=Copyright 2024 Olivier Rogier
 AppId={{FB303107-574A-4E3D-8C5F-7363F8AFE8B8}
 ;AppMutex=05DA0AB9-3E05-497C-873B-64CDEEB8288F
 #include "Scripts\Setup.iss"
