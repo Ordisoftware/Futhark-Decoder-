@@ -8,10 +8,11 @@
     <OutputType>WinExe</OutputType>
     <RootNamespace>Ordisoftware.Futhark.Decoder</RootNamespace>
     <AssemblyName>Ordisoftware.Futhark.Decoder</AssemblyName>
-    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -463,7 +464,7 @@
       <Version>4.0.0</Version>
     </PackageReference>
     <PackageReference Include="Serilog">
-      <Version>4.1.0</Version>
+      <Version>4.2.0</Version>
     </PackageReference>
     <PackageReference Include="Serilog.Sinks.File">
       <Version>6.0.0</Version>
@@ -494,7 +495,7 @@
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
     <PackageReference Include="Meziantou.Analyzer">
-      <Version>2.0.180</Version>
+      <Version>2.0.182</Version>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
