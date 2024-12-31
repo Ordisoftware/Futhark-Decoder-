@@ -1,6 +1,4 @@
-﻿using System.Resources;
-
-// Les informations générales relatives à un assembly dépendent de
+﻿// Les informations générales relatives à un assembly dépendent de
 // l'ensemble d'attributs suivant. Changez les valeurs de ces attributs pour modifier les informations
 // associées à un assembly.
 [assembly: AssemblyTitle("Futhark Decoder")]
@@ -8,7 +6,7 @@
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Ordisoftware")]
 [assembly: AssemblyProduct("www.ordisoftware.com/projects/futhark-Decoder")]
-[assembly: AssemblyCopyright("Copyright 2024 Olivier Rogier")]
+[assembly: AssemblyCopyright("Copyright 2025 Olivier Rogier")]
 [assembly: AssemblyTrademark("www.ordisoftware.com")]
 [assembly: AssemblyCulture("")]
 
